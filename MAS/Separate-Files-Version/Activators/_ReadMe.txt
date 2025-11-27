@@ -2,12 +2,11 @@
 Activation Type        Supported Product        Activation Period
 --------------------------------------------------------------------------------------
 
-HWID                -  Windows 10-11          -  Permanent                           
-Ohook               -  Office                 -  Permanent                           
-TSforge             -  Windows / ESU / Office -  Permanent                           
-Online KMS          -  Windows / Office       -  180 Days. Lifetime With Renewal Task
+HWID                for Windows 10-11          -  Permanent                           
+Ohook               for Office                 -  Permanent                           
+TSforge             for Windows / ESU / Office -  Permanent                           
+Online KMS          for Windows / Office       -  180 Days. Lifetime With activeateing again
 
 --------------------------------------------------------------------------------------
 
 Check the below link for more details:
-https://massgrave.dev/chart
