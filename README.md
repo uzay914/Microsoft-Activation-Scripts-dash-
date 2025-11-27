@@ -14,11 +14,11 @@
    Click the **Start Menu**, type `PowerShell`, then open it.
 
 2. **Copy and paste the code below, then press enter.**  
-   - For **Windows 8, 10, 11**: 📌
+   - For **Windows 8, 10, 11**: 
      ```
      irm https://get.activated.win | iex
      ```
-	 If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):  
+	 If the above is blocked (by ISP/DNS), try this (needs  Windows 10 or 11):  
 	 ```
 	 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
 	 ```
@@ -26,7 +26,7 @@
      ```
      iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
      ```
-	- **Script not launching❓Use the below-listed Method 2.**
+	- if script is not working use option 2 
 
 3. The activation menu will appear. **Choose the green-highlighted options** to activate Windows or Office.
 
@@ -67,9 +67,8 @@ Latest Version: 3.9
 Release date: 19-Nov-2025
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
+
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
 
 <div align="center">
   
@@ -88,24 +87,10 @@ Release date: 19-Nov-2025
 
 </div>
 
-[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.2]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)
-[1.3]: https://massgrave.dev/img/logo_gitea.png (Self-hosted Git)
-
-[1.4]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
-[1.5]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.6]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
-[1.7]: https://massgrave.dev/img/logo_x.png (Twitter)
-
-[1]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[2]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
-[3]: https://git.activated.win/Microsoft-Activation-Scripts
-[4]: https://discord.gg/j2yFsV5ZVC
-[5]: https://www.reddit.com/r/MAS_Activator
-[6]: https://bsky.app/profile/massgrave.dev
 [7]: https://twitter.com/massgravel
 
 ---
 
-<p align="center">Made with Love ❤️</p>
+<p align="center">Made with Love ❤️forked with edits
+
 
